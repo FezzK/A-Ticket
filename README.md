@@ -1,7 +1,7 @@
 # Aːticket
 ![Aːticket.png](./img/Articket.png)
 
-A:Ticket: 숏폼 기반 공연·전시 추천·예매 플랫폼
+A:Ticket: 숏폼 기반 공연·전시 추천·예매 플랫폼<br>
 SSAFT 10기 공통 프로젝트 2위
 
 ## 진행 기간
