@@ -2,7 +2,7 @@
 ![Aːticket.png](./img/Articket.png)
 
 A:Ticket: 숏폼 기반 공연·전시 추천·예매 플랫폼
-> http://i10a704.p.ssafy.io/
+SSAFT 10기 공통 프로젝트 2위
 
 ## 진행 기간
 2023.12.28 ~ 2024.02.16
